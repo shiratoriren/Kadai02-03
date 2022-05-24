@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="jp.te4a.spring.boot.myapp2.AppTest" time="0" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="jp.te4a.spring.boot.myapp2.AppTest" time="0.001" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.15+10-LTS"/>
@@ -27,7 +27,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="classworlds.conf" value="E:\r04_dev\apache-maven-3.8.5\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="MS932"/>
-    <property name="java.library.path" value="E:\r04_dev\jdk-11.0.15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\r04_dev\jdk-11.0.15\bin;E:\r04_dev\\apache-maven-3.8.5\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\libnvvp;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\app\client\oracle\product\19.0.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.1\;C:\Users\190457\AppData\Local\Microsoft\WindowsApps;C:\Users\190457\AppData\Local\Programs\Git\cmd;."/>
+    <property name="java.library.path" value="E:\r04_dev\jdk-11.0.15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\r04_dev\jdk-11.0.15\bin;E:\r04_dev\\apache-maven-3.8.5\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\libnvvp;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\app\client\oracle\product\19.0.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.1\;C:\Users\190457\AppData\Local\Microsoft\WindowsApps;C:\Users\190457\AppData\Local\Programs\Git\cmd;C:\Users\190457\AppData\Local\Programs\Microsoft VS Code\bin;."/>
     <property name="maven.conf" value="E:\r04_dev\apache-maven-3.8.5/conf"/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="55.0"/>
@@ -63,5 +63,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="jp.te4a.spring.boot.myapp2.AppTest" time="0"/>
+  <testcase name="shouldAnswerWithTrue" classname="jp.te4a.spring.boot.myapp2.AppTest" time="0.001"/>
 </testsuite>
